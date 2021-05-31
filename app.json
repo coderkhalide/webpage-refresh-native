@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "It's an app where you can give an URL and set a time when that webpage will be auto refresh.",
+    "githubUrl": "https://github.com/coderkhalide/webpage-refresh-native"
   }
 }
